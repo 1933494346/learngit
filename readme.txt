@@ -6,3 +6,4 @@ git is free software.
 git has a mutable index called stage.
 
 cat readme.txt
+git tracks changes of files.
