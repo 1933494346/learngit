@@ -4,3 +4,5 @@ git is free software.
 ĞŞ¸Äreadme.txt°ïÖú»ØÍË
 
 git has a mutable index called stage.
+
+cat readme.txt
