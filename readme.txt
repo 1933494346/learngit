@@ -7,3 +7,4 @@ git has a mutable index called stage.
 
 cat readme.txt
 git tracks changes of files.
+Creating a new branch is quick
